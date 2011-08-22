@@ -4,6 +4,7 @@
 # more information here : http://suitmymind.com/2009/04/18/move-your-tickets-from-lighthouse-to-github/
 
 require 'rubygems'
+require 'bundler/setup'
 require 'lighthouse-api'
 require 'yaml'
 require 'uri'
